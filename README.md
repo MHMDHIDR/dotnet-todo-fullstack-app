@@ -13,6 +13,14 @@ This is a modern full-stack web application designed and developed to demonstrat
 - TailwindCSS – Utility-first CSS framework
 - shadcn/ui – Accessible, customizable UI components
 
+![demo screenshot](./demoScreenshot-1.png)
+
+![demo screenshot](./demoScreenshot-2.png)
+
+![demo screenshot](./demoScreenshot-3.png)
+
+![demo screenshot](./demoScreenshot-4.png)
+
 ### Backend
 
 - .NET 9 – High-performance web framework

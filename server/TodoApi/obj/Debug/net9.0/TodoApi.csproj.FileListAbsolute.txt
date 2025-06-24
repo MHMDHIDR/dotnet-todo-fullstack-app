@@ -127,3 +127,4 @@
 /Applications/XAMPP/xamppfiles/htdocs/dotnet-todo-fullstack-app/server/TodoApi/obj/Debug/net9.0/TodoApi.pdb
 /Applications/XAMPP/xamppfiles/htdocs/dotnet-todo-fullstack-app/server/TodoApi/obj/Debug/net9.0/TodoApi.genruntimeconfig.cache
 /Applications/XAMPP/xamppfiles/htdocs/dotnet-todo-fullstack-app/server/TodoApi/obj/Debug/net9.0/ref/TodoApi.dll
+/Applications/XAMPP/xamppfiles/htdocs/dotnet-todo-fullstack-app/server/TodoApi/obj/Debug/net9.0/TodoApi.sourcelink.json

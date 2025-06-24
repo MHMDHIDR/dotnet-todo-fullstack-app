@@ -200,7 +200,7 @@ export default function ToDo() {
                   <DrawerClose asChild>
                     <Button
                       variant='outline'
-                      className='border-white/20 text-white hover:bg-white/10'
+                      className='border-white/20 hover:bg-white/10'
                     >
                       Cancel
                     </Button>
